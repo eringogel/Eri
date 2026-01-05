@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I was born and raised in Toledo, Ohio, and my career has been shaped by a deep commitment to helping others in moments that require patience, empathy, and steady leadership. Over the years, I’ve worked in several service focused fields aviation, healthcare, and funeral services each one giving me a unique perspective on what it means to support people during challenging or emotional times. I began my professional journey in healthcare, working as a Nurse Aide and later as a Pre‑Analytical Tech. In those roles, I learned how important it is to be attentive, precise, and compassionate. Whether I was assisting patients with daily care or handling biological specimens in a laboratory setting, I developed strong skills in communication, safety, and detail oriented work. My path then led me to Castillo Funeral Home & Cremation, where I supported families navigating grief and loss. Preparing service spaces, assisting with arrangements, and offering comfort during difficult moments taught me how meaningful it can be to provide calm, respectful guidance when people need it most. In 2023, I expanded my career into aviation and became a Flight Attendant with Delta Air Lines. This role allows me to combine my service‑driven background with a strong focus on safety and customer care. Whether I’m responding to in‑flight needs, demonstrating safety procedures, or coordinating with the flight crew, I take pride in creating a positive and secure experience for every passenger.
+I was born and raised in Toledo, Ohio, and my career has been shaped by a deep commitment to helping others in moments that require patience, empathy, and steady leadership. Over the years, I’ve worked in several service focused fields aviation, healthcare, and funeral services each one giving me a unique perspective on what it means to support people during challenging or emotional times. I began my professional journey in healthcare, working as a Nurse Aide and later as a Pre‑Analytical Tech. 
+
+In those roles, I learned how important it is to be attentive, precise, and compassionate. Whether I was assisting patients with daily care or handling biological specimens in a laboratory setting, I developed strong skills in communication, safety, and detail oriented work. My path then led me to Castillo Funeral Home & Cremation, where I supported families navigating grief and loss. Preparing service spaces, assisting with arrangements, and offering comfort during difficult moments taught me how meaningful it can be to provide calm, respectful guidance when people need it most. 
+
+In 2023, I expanded my career into aviation and became a Flight Attendant with Delta Air Lines. This role allows me to combine my service‑driven background with a strong focus on safety and customer care. Whether I’m responding to in‑flight needs, demonstrating safety procedures, or coordinating with the flight crew, I take pride in creating a positive and secure experience for every passenger.

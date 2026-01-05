@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Erica Gogel.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Erica Gogel Resume.pdf # you can also use external links here
+description: Here you can see my experience and grab a copy of my resume where it says "PDF"
 toc:
   sidebar: left
 ---
